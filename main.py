@@ -57,7 +57,12 @@ def print_nfl_logo():
 def main_menu():
     os.system('clear')  # Clears the screen before displaying the logo and menu
     print_nfl_logo()
-    print("Welcome to the NFL Stat Tracker!")
+    print("Welcome to the NFL Stat Tracker!\n")
+    print("How to Use the Program:")
+    print("- Login: Create an account or login as an existing user to save teams and players.")
+    print("- Search Team: Search for an NFL team by name or location and optionally save them to your profile.")
+    print("- Search Player: Search for players by last name and save them to your profile.")
+    print("- Search News: Find NFL news articles by searching for keywords in the headlines.\n")
     print("1. Login")
     print("2. Search Team")
     print("3. Search Player")
@@ -76,6 +81,7 @@ def main_menu():
         search_player(None)
     elif choice == '4':
         search_news()
+
 
 def login_menu():
     os.system('clear')  # Clears the screen before displaying the login menu
@@ -150,6 +156,12 @@ def create_account():
 
 def logged_in_menu(username, saved_data):
     os.system('clear')  # Clears the screen before displaying the logged-in menu
+    print("Welcome back to the NFL Stat Tracker!\n")
+    print("How to Use the Program:")
+    print("- Search Team: Search for an NFL team by name or location and optionally save them to your profile.")
+    print("- Search Player: Search for players by last name and save them to your profile.")
+    print("- Search News: Find NFL news articles by searching for keywords in the headlines.")
+    print("- Saved Teams and Players: View the teams and players you have saved.\n")
     print("Logged In Menu:")
     print("1. Search Team")
     print("2. Search Player")
@@ -175,6 +187,7 @@ def logged_in_menu(username, saved_data):
         saved_players(username, saved_data)
     elif choice == '6':
         main_menu()
+
 
 def saved_teams(username, saved_data):
     os.system('clear')
