@@ -274,10 +274,7 @@ def search_team(username):
     else:
         print("\nTeam not found.")
     input("\nPress Enter to return to the Logged In Menu...")
-    if username:
-        logged_in_menu(username, saved_data)
-    else:
-        main_menu()
+    main_menu()
 
 
 def search_player(username):
@@ -318,10 +315,7 @@ def search_player(username):
     else:
         print(f"\nNo players found matching '{last_name}'.")
     input("\nPress Enter to return to the Logged In Menu...")
-    if username:
-        logged_in_menu(username, saved_data)
-    else:
-        main_menu()
+    main_menu()
 
 
 
