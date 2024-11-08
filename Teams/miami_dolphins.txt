@@ -1,0 +1,35 @@
+Miami Dolphins
+9
+3
+Mike McDaniel
+Miami Gardens, FL
+
+Players:
+Tua, Tagovailoa, 1, Quarterback, 3,800 passing yards, 25 TDs, 9 INTs
+Mike, White, 14, Quarterback, 400 passing yards, 2 TDs, 1 INT
+Raheem, Mostert, 31, Running Back, 900 rushing yards, 6 TDs
+Jeff, Wilson Jr., 23, Running Back, 400 rushing yards, 3 TDs
+Tyreek, Hill, 10, Wide Receiver, 1,500 receiving yards, 12 TDs
+Jaylen, Waddle, 17, Wide Receiver, 1,100 receiving yards, 8 TDs
+Braxton, Berrios, 0, Wide Receiver, 400 receiving yards, 2 TDs
+Cedrick, Wilson Jr., 11, Wide Receiver, 300 receiving yards, 1 TD
+Durham, Smythe, 81, Tight End, 300 receiving yards, 3 TDs
+Tyler, Kroft, 84, Tight End, 150 receiving yards, 1 TD
+Terron, Armstead, 72, Offensive Tackle, Starting Left Tackle
+Austin, Jackson, 73, Offensive Tackle, Starting Right Tackle
+Isaiah, Wynn, 76, Offensive Guard, Starting Left Guard
+Robert, Hunt, 68, Offensive Guard, Starting Right Guard
+Connor, Williams, 58, Center, Starting Center
+Bradley, Chubb, 2, Defensive End, 8 sacks, 50 tackles
+Jaelan, Phillips, 15, Defensive End, 10 sacks, 45 tackles
+Zach, Sieler, 92, Defensive Tackle, 3 sacks, 30 tackles
+Christian, Wilkins, 94, Defensive Tackle, 5 sacks, 40 tackles
+Jerome, Baker, 55, Linebacker, 2 sacks, 80 tackles
+David, Long Jr., 51, Linebacker, 1 sack, 70 tackles
+Xavien, Howard, 25, Cornerback, 4 interceptions, 50 tackles
+Jalen, Ramsey, 5, Cornerback, 3 interceptions, 40 tackles
+Jevon, Holland, 8, Safety, 2 interceptions, 70 tackles
+Brandon, Jones, 29, Safety, 1 interception, 50 tackles
+Jason, Sanders, 7, Kicker, 24 field goals made
+Jake, Bailey, 4, Punter, 50 punts, 46.5 average yards
+Blake, Ferguson, 44, Long Snapper, Starting Long Snapper

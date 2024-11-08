@@ -1,0 +1,34 @@
+New York Jets
+8
+2
+Robert Saleh
+East Rutherford, NJ
+
+Players:
+Aaron, Rodgers, 8, Quarterback, 3,500 passing yards, 28 TDs, 9 INTs
+Zach, Wilson, 2, Quarterback, 400 passing yards, 2 TDs, 1 INT
+Breece, Hall, 20, Running Back, 1,000 rushing yards, 8 TDs
+Dalvin, Cook, 33, Running Back, 500 rushing yards, 4 TDs
+Garrett, Wilson, 17, Wide Receiver, 1,200 receiving yards, 10 TDs
+Allen, Lazard, 10, Wide Receiver, 600 receiving yards, 5 TDs
+Mecole, Hardman Jr., 19, Wide Receiver, 400 receiving yards, 3 TDs
+Randall, Cobb, 18, Wide Receiver, 300 receiving yards, 2 TDs
+Tyler, Conklin, 83, Tight End, 500 receiving yards, 4 TDs
+C.J., Uzomah, 87, Tight End, 200 receiving yards, 2 TDs
+Duane, Brown, 71, Offensive Tackle, Starting Left Tackle
+Mekhi, Becton, 77, Offensive Tackle, Starting Right Tackle
+Laken, Tomlinson, 78, Offensive Guard, Starting Left Guard
+Alijah, Vera-Tucker, 75, Offensive Guard, Starting Right Guard
+Connor, McGovern, 60, Center, Starting Center
+Quinnen, Williams, 95, Defensive Tackle, 10 sacks, 55 tackles
+John, Franklin-Myers, 91, Defensive End, 6 sacks, 40 tackles
+Carl, Lawson, 58, Defensive End, 5 sacks, 35 tackles
+C.J., Mosley, 57, Linebacker, 2 sacks, 110 tackles
+Quincy, Williams, 56, Linebacker, 1 sack, 80 tackles
+Sauce, Gardner, 1, Cornerback, 3 interceptions, 50 tackles
+D.J., Reed, 4, Cornerback, 2 interceptions, 40 tackles
+Jordan, Whitehead, 3, Safety, 2 interceptions, 65 tackles
+Adrian, Amos, 33, Safety, 1 interception, 50 tackles
+Greg, Zuerlein, 6, Kicker, 27 field goals made
+Thomas, Morstead, 4, Punter, 55 punts, 46.5 average yards
+Thomas, Hennessy, 42, Long Snapper, Starting Long Snapper

@@ -1,0 +1,35 @@
+Jacksonville Jaguars
+8
+3
+Doug Pederson
+Jacksonville, FL
+
+Players:
+Trevor, Lawrence, 16, Quarterback, 3,500 passing yards, 25 TDs, 9 INTs
+C.J., Beathard, 3, Quarterback, 400 passing yards, 2 TDs, 1 INT
+Travis, Etienne Jr., 1, Running Back, 1,100 rushing yards, 7 TDs
+Tank, Bigsby, 4, Running Back, 300 rushing yards, 3 TDs
+Christian, Kirk, 13, Wide Receiver, 1,000 receiving yards, 8 TDs
+Calvin, Ridley, 0, Wide Receiver, 900 receiving yards, 7 TDs
+Zay, Jones, 7, Wide Receiver, 600 receiving yards, 5 TDs
+Jamal, Agnew, 39, Wide Receiver, 300 receiving yards, 2 TDs
+Evan, Engram, 17, Tight End, 600 receiving yards, 5 TDs
+Luke, Farrell, 89, Tight End, 200 receiving yards, 1 TD
+Cam, Robinson, 74, Offensive Tackle, Starting Left Tackle
+Anton, Harrison, 76, Offensive Tackle, Starting Right Tackle
+Tyler, Shatley, 69, Offensive Guard, Starting Left Guard
+Brandon, Scherff, 68, Offensive Guard, Starting Right Guard
+Luke, Fortner, 79, Center, Starting Center
+Josh, Allen, 41, Defensive End, 10 sacks, 50 tackles
+Travon, Walker, 44, Defensive End, 7 sacks, 40 tackles
+Foley, Fatukasi, 94, Defensive Tackle, 3 sacks, 30 tackles
+Roy, Robertson-Harris, 95, Defensive Tackle, 4 sacks, 35 tackles
+Foyesade, Oluokun, 23, Linebacker, 2 sacks, 120 tackles
+Devin, Lloyd, 33, Linebacker, 1 sack, 80 tackles
+Tyson, Campbell, 32, Cornerback, 3 interceptions, 40 tackles
+Tre, Herndon, 37, Cornerback, 1 interception, 30 tackles
+Andre, Cisco, 5, Safety, 3 interceptions, 60 tackles
+Rayshawn, Jenkins, 2, Safety, 2 interceptions, 55 tackles
+Brandon, McManus, 10, Kicker, 28 field goals made
+Logan, Cooke, 9, Punter, 55 punts, 47.0 average yards
+Ross, Matiscik, 46, Long Snapper, Starting Long Snapper

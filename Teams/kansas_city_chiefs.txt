@@ -1,0 +1,25 @@
+Kansas City Chiefs
+10
+2
+Andy Reid
+Kansas City, MO
+
+Players:
+Patrick, Mahomes, 15, Quarterback, 4,500 passing yards, 38 TDs, 10 INTs
+Travis, Kelce, 87, Tight End, 1,200 receiving yards, 12 TDs
+Isiah, Pacheco, 10, Running Back, 900 rushing yards, 6 TDs
+Jerick, McKinnon, 1, Running Back, 500 rushing yards, 5 TDs, 400 receiving yards, 3 TDs
+Kadarius, Toney, 19, Wide Receiver, 600 receiving yards, 5 TDs
+Marquez, Valdes-Scantling, 11, Wide Receiver, 500 receiving yards, 3 TDs
+Skyy, Moore, 24, Wide Receiver, 400 receiving yards, 2 TDs
+Rashee, Rice, 4, Wide Receiver, 300 receiving yards, 2 TDs
+George, Karlaftis, 56, Defensive End, 8 sacks, 40 tackles
+Chris, Jones, 95, Defensive Tackle, 15 sacks, 45 tackles
+Nick, Bolton, 32, Linebacker, 2 sacks, 120 tackles
+Willie, Gay Jr., 50, Linebacker, 1 sack, 70 tackles
+L'Jarius, Sneed, 38, Cornerback, 3 interceptions, 60 tackles
+Trent, McDuffie, 21, Cornerback, 2 interceptions, 50 tackles
+Justin, Reid, 20, Safety, 3 interceptions, 70 tackles
+Harrison, Butker, 7, Kicker, 25 field goals made
+Tommy, Townsend, 5, Punter, 45 punts, 46.5 average yards
+James, Winchester, 41, Long Snapper, Starting Long Snapper

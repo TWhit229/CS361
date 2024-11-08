@@ -1,0 +1,37 @@
+San Francisco 49ers
+4
+4
+Kyle Shanahan
+Santa Clara, CA
+
+Players:
+Brock, Purdy, 13, Quarterback, 2,200 passing yards, 16 TDs, 6 INTs
+Joshua, Dobbs, 15, Quarterback, 300 passing yards, 2 TDs, 1 INT
+Christian, McCaffrey, 23, Running Back, 700 rushing yards, 6 TDs
+Jordan, Mason, 24, Running Back, 300 rushing yards, 2 TDs
+Patrick, Taylor Jr., 22, Running Back, 200 rushing yards, 1 TD
+Deebo, Samuel Sr., 19, Wide Receiver, 800 receiving yards, 5 TDs
+Brandon, Aiyuk, 11, Wide Receiver, 600 receiving yards, 4 TDs
+Jauan, Jennings, 15, Wide Receiver, 400 receiving yards, 3 TDs
+Chris, Conley, 18, Wide Receiver, 300 receiving yards, 2 TDs
+Ricky, Pearsall, 83, Wide Receiver, 200 receiving yards, 1 TD
+George, Kittle, 85, Tight End, 500 receiving yards, 4 TDs
+Jake, Tonges, 89, Tight End, 200 receiving yards, 2 TDs
+Trent, Williams, 71, Offensive Tackle, Starting Left Tackle
+Colton, McKivitz, 68, Offensive Tackle, Starting Right Tackle
+Aaron, Banks, 65, Offensive Guard, Starting Left Guard
+Spencer, Burford, 74, Offensive Guard, Starting Right Guard
+Jake, Brendel, 64, Center, Starting Center
+Nick, Bosa, 97, Defensive End, 5 sacks, 30 tackles
+Leonard, Floyd, 94, Defensive End, 4 sacks, 25 tackles
+Javon, Hargrave, 93, Defensive Tackle, 3 sacks, 20 tackles
+Maliek, Collins, 96, Defensive Tackle, 2 sacks, 18 tackles
+Fred, Warner, 54, Linebacker, 1 sack, 50 tackles
+De'Vondre, Campbell Sr., 59, Linebacker, 1 sack, 45 tackles
+Charvarius, Ward, 7, Cornerback, 3 interceptions, 20 tackles
+Deommodore, Lenoir, 2, Cornerback, 2 interceptions, 18 tackles
+Talanoa, Hufanga, 29, Safety, 2 interceptions, 25 tackles
+George, Odum, 30, Safety, 1 interception, 20 tackles
+Jake, Moody, 4, Kicker, 15 field goals made
+Mitch, Wishnowsky, 3, Punter, 40 punts, 45.0 average yards
+Taybor, Pepper, 46, Long Snapper, Starting Long Snapper

@@ -1,0 +1,35 @@
+Las Vegas Raiders
+6
+4
+Josh McDaniels
+Las Vegas, NV
+
+Players:
+Jimmy, Garoppolo, 10, Quarterback, 3,000 passing yards, 18 TDs, 12 INTs
+Brian, Hoyer, 7, Quarterback, 400 passing yards, 2 TDs, 1 INT
+Josh, Jacobs, 28, Running Back, 1,200 rushing yards, 10 TDs
+Zamir, White, 35, Running Back, 300 rushing yards, 2 TDs
+Davante, Adams, 17, Wide Receiver, 1,300 receiving yards, 12 TDs
+Hunter, Renfrow, 13, Wide Receiver, 600 receiving yards, 4 TDs
+Jakobi, Meyers, 16, Wide Receiver, 700 receiving yards, 5 TDs
+Tre, Tucker, 89, Wide Receiver, 300 receiving yards, 2 TDs
+Michael, Mayer, 87, Tight End, 400 receiving yards, 4 TDs
+Austin, Hooper, 82, Tight End, 200 receiving yards, 2 TDs
+Kolton, Miller, 74, Offensive Tackle, Starting Left Tackle
+Jermaine, Eluemunor, 72, Offensive Tackle, Starting Right Tackle
+Dylan, Parham, 66, Offensive Guard, Starting Left Guard
+Greg, Van Roten, 62, Offensive Guard, Starting Right Guard
+Andre, James, 68, Center, Starting Center
+Maxx, Crosby, 98, Defensive End, 12 sacks, 60 tackles
+Tyree, Wilson, 9, Defensive End, 6 sacks, 40 tackles
+Bilal, Nichols, 91, Defensive Tackle, 4 sacks, 30 tackles
+Jerry, Tillery, 90, Defensive Tackle, 3 sacks, 25 tackles
+Divine, Deablo, 5, Linebacker, 1 sack, 75 tackles
+Robert, Spillane, 41, Linebacker, 2 sacks, 70 tackles
+Marcus, Peters, 24, Cornerback, 3 interceptions, 40 tackles
+Nate, Hobbs, 39, Cornerback, 2 interceptions, 35 tackles
+Tre'von, Moehrig, 25, Safety, 2 interceptions, 50 tackles
+Marcus, Epps, 1, Safety, 1 interception, 45 tackles
+Daniel, Carlson, 2, Kicker, 30 field goals made
+AJ, Cole, 6, Punter, 55 punts, 47.5 average yards
+Jacob, Bobenmoyer, 46, Long Snapper, Starting Long Snapper

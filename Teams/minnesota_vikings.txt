@@ -1,0 +1,37 @@
+Minnesota Vikings
+6
+2
+Kevin O'Connell
+Minneapolis, MN
+
+Players:
+Sam, Darnold, 14, Quarterback, 2,200 passing yards, 16 TDs, 6 INTs
+Nick, Mullens, 12, Quarterback, 500 passing yards, 3 TDs, 2 INTs
+Aaron, Jones, 33, Running Back, 600 rushing yards, 5 TDs
+Ty, Chandler, 32, Running Back, 300 rushing yards, 2 TDs
+C.J., Ham, 30, Fullback, 100 rushing yards, 1 TD
+Justin, Jefferson, 18, Wide Receiver, 800 receiving yards, 5 TDs
+Jordan, Addison, 3, Wide Receiver, 600 receiving yards, 4 TDs
+Jalen, Nailor, 13, Wide Receiver, 400 receiving yards, 3 TDs
+Brandon, Powell, 4, Wide Receiver, 300 receiving yards, 2 TDs
+Trishton, Jackson, 9, Wide Receiver, 200 receiving yards, 1 TD
+Johnny, Mundt, 86, Tight End, 400 receiving yards, 3 TDs
+Josh, Oliver, 84, Tight End, 200 receiving yards, 2 TDs
+Christian, Darrisaw, 71, Offensive Tackle, Starting Left Tackle
+Brian, O'Neill, 75, Offensive Tackle, Starting Right Tackle
+Blake, Brandel, 64, Offensive Guard, Starting Left Guard
+Ed, Ingram, 67, Offensive Guard, Starting Right Guard
+Garrett, Bradbury, 56, Center, Starting Center
+Harrison, Phillips, 97, Defensive Tackle, 3 sacks, 25 tackles
+Jonathan, Bullard, 93, Defensive Tackle, 2 sacks, 20 tackles
+Jerry, Tillery, 99, Defensive End, 4 sacks, 30 tackles
+Dallas, Turner, 15, Defensive End, 3 sacks, 25 tackles
+Ivan, Pace Jr., 40, Linebacker, 1 sack, 50 tackles
+Blake, Cashman, 53, Linebacker, 1 sack, 45 tackles
+Stephon, Gilmore, 5, Cornerback, 3 interceptions, 20 tackles
+Byron, Murphy Jr., 7, Cornerback, 2 interceptions, 18 tackles
+Harrison, Smith, 22, Safety, 2 interceptions, 25 tackles
+Camryn, Bynum, 24, Safety, 1 interception, 20 tackles
+Will, Reichard, 16, Kicker, 15 field goals made
+Ryan, Wright, 17, Punter, 40 punts, 45.0 average yards
+Andrew, DePaola, 42, Long Snapper, Starting Long Snapper

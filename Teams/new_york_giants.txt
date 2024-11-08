@@ -1,0 +1,35 @@
+New York Giants
+2
+7
+Brian Daboll
+East Rutherford, NJ
+
+Players:
+Daniel, Jones, 8, Quarterback, 1,800 passing yards, 12 TDs, 6 INTs
+Drew, Lock, 3, Quarterback, 400 passing yards, 2 TDs, 1 INT
+Devin, Singletary, 26, Running Back, 500 rushing yards, 4 TDs
+Tyrone, Tracy Jr., 25, Running Back, 200 rushing yards, 1 TD
+Malik, Nabers, 1, Wide Receiver, 600 receiving yards, 4 TDs
+Darius, Slayton, 86, Wide Receiver, 500 receiving yards, 3 TDs
+Wan'Dale, Robinson, 17, Wide Receiver, 400 receiving yards, 2 TDs
+Ihmir, Smith-Marsette, 13, Wide Receiver, 300 receiving yards, 2 TDs
+Daniel, Bellinger, 82, Tight End, 300 receiving yards, 3 TDs
+Chris, Manhertz, 84, Tight End, 200 receiving yards, 2 TDs
+Andrew, Thomas, 78, Offensive Tackle, Starting Left Tackle
+Evan, Neal, 73, Offensive Tackle, Starting Right Tackle
+Jon, Runyan, 76, Offensive Guard, Starting Left Guard
+Greg, Van Roten, 74, Offensive Guard, Starting Right Guard
+John, Michael Schmitz Jr., 61, Center, Starting Center
+Dexter, Lawrence II, 97, Defensive Tackle, 4 sacks, 30 tackles
+Rakeem, Nuñez-Roches, 93, Defensive Tackle, 2 sacks, 20 tackles
+Kayvon, Thibodeaux, 5, Defensive End, 5 sacks, 25 tackles
+Azeez, Ojulari, 51, Defensive End, 4 sacks, 22 tackles
+Bobby, Okereke, 58, Linebacker, 1 sack, 50 tackles
+Micah, McFadden, 41, Linebacker, 1 sack, 45 tackles
+Deonte, Banks, 36, Cornerback, 2 interceptions, 20 tackles
+Dru, Phillips, 29, Cornerback, 1 interception, 18 tackles
+Jason, Pinnock, 27, Safety, 2 interceptions, 25 tackles
+Tyler, Nubin, 8, Safety, 1 interception, 20 tackles
+Jude, McAtamney, 9, Kicker, 10 field goals made
+Jamie, Gillan, 6, Punter, 40 punts, 45.0 average yards
+Casey, Kreiter, 59, Long Snapper, Starting Long Snapper

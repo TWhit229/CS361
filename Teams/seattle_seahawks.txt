@@ -1,0 +1,37 @@
+Seattle Seahawks
+4
+5
+Mike Macdonald
+Seattle, WA
+
+Players:
+Geno, Smith, 7, Quarterback, 2,300 passing yards, 15 TDs, 8 INTs
+Sam, Howell, 6, Quarterback, 500 passing yards, 3 TDs, 2 INTs
+Kenneth, Walker III, 9, Running Back, 700 rushing yards, 6 TDs
+Zach, Charbonnet, 26, Running Back, 400 rushing yards, 3 TDs
+Kenny, McIntosh, 25, Running Back, 200 rushing yards, 1 TD
+DK, Metcalf, 14, Wide Receiver, 800 receiving yards, 5 TDs
+Tyler, Lockett, 16, Wide Receiver, 600 receiving yards, 4 TDs
+Jaxon, Smith-Njigba, 11, Wide Receiver, 500 receiving yards, 3 TDs
+Jake, Bobo, 19, Wide Receiver, 300 receiving yards, 2 TDs
+Laviska, Shenault Jr., 1, Wide Receiver, 200 receiving yards, 1 TD
+Noah, Fant, 87, Tight End, 400 receiving yards, 3 TDs
+AJ, Barner, 88, Tight End, 200 receiving yards, 2 TDs
+Charles, Cross, 67, Offensive Tackle, Starting Left Tackle
+Stone, Forsythe, 78, Offensive Tackle, Starting Right Tackle
+Damien, Lewis, 68, Offensive Guard, Starting Left Guard
+Phil, Haynes, 60, Offensive Guard, Starting Right Guard
+Evan, Brown, 63, Center, Starting Center
+Dre'Mont, Jones, 55, Defensive End, 4 sacks, 30 tackles
+Leonard, Williams, 99, Defensive End, 3 sacks, 25 tackles
+Jarran, Reed, 90, Defensive Tackle, 2 sacks, 20 tackles
+Byron, Murphy II, 91, Defensive Tackle, 2 sacks, 18 tackles
+Boye, Mafe, 53, Linebacker, 1 sack, 50 tackles
+Tyrel, Dodson, 0, Linebacker, 1 sack, 45 tackles
+Riq, Woolen, 27, Cornerback, 3 interceptions, 20 tackles
+Devon, Witherspoon, 21, Cornerback, 2 interceptions, 18 tackles
+Jamal, Adams, 33, Safety, 2 interceptions, 25 tackles
+Julian, Love, 20, Safety, 1 interception, 20 tackles
+Jason, Myers, 5, Kicker, 15 field goals made
+Michael, Dickson, 4, Punter, 40 punts, 45.0 average yards
+Chris, Stoll, 42, Long Snapper, Starting Long Snapper

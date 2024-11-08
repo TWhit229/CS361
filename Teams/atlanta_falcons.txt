@@ -1,0 +1,58 @@
+Atlanta Falcons
+6
+3
+Raheem Morris
+Atlanta, GA
+
+Players:
+Kirk, Cousins, 18, Quarterback, 2,500 passing yards, 20 TDs, 5 INTs
+Michael, Penix Jr., 9, Quarterback, 500 passing yards, 3 TDs, 1 INT
+Bijan, Robinson, 7, Running Back, 800 rushing yards, 6 TDs
+Tyler, Allgeier, 25, Running Back, 400 rushing yards, 3 TDs
+Avery, Williams, 26, Running Back, 150 rushing yards, 1 TD
+Drake, London, 5, Wide Receiver, 600 receiving yards, 4 TDs
+Darnell, Mooney, 11, Wide Receiver, 500 receiving yards, 3 TDs
+Ray-Ray, McCloud III, 14, Wide Receiver, 300 receiving yards, 2 TDs
+KhaDarel, Hodge, 12, Wide Receiver, 200 receiving yards, 1 TD
+Casey, Washington, 82, Wide Receiver, 100 receiving yards, 0 TDs
+Kyle, Pitts, 8, Tight End, 400 receiving yards, 3 TDs
+Charlie, Woerner, 89, Tight End, 150 receiving yards, 1 TD
+Ross, Dwelley, 85, Tight End, 100 receiving yards, 1 TD
+Jake, Matthews, 70, Offensive Tackle, Starting Left Tackle
+Matthew, Bergeron, 65, Offensive Guard, Starting Left Guard
+Drew, Dalman, 67, Center, Starting Center
+Chris, Lindstrom, 63, Offensive Guard, Starting Right Guard
+Kaleb, McGary, 76, Offensive Tackle, Starting Right Tackle
+Ryan, Neuzil, 64, Offensive Line, Backup
+Kyle, Hinton, 68, Offensive Line, Backup
+Storm, Norton, 74, Offensive Line, Backup
+Jovaughn, Gwyn, 56, Offensive Line, Backup
+Grady, Jarrett, 97, Defensive Tackle, 4 sacks, 20 tackles
+David, Onyemata, 90, Defensive Tackle, 3 sacks, 18 tackles
+Ta'Quon, Graham, 95, Defensive Line, 2 sacks, 15 tackles
+Zach, Harrison, 96, Defensive End, 2 sacks, 14 tackles
+Eddie, Goldman, 99, Defensive Line, 1 sack, 10 tackles
+Kentavius, Street, 93, Defensive Line, 1 sack, 8 tackles
+Ruke, Orhorhoro, 98, Defensive Line, 0 sacks, 5 tackles
+Brandon, Dorlus, 54, Defensive Line, 0 sacks, 4 tackles
+James, Smith-Williams, 50, Defensive End, 1 sack, 6 tackles
+Matthew, Judon, 15, Outside Linebacker, 5 sacks, 25 tackles
+Lorenzo, Carter, 0, Outside Linebacker, 3 sacks, 20 tackles
+Arnold, Ebiketie, 17, Outside Linebacker, 2 sacks, 18 tackles
+DeAngelo, Malone, 51, Outside Linebacker, 1 sack, 10 tackles
+Kaden, Elliss, 55, Inside Linebacker, 2 sacks, 30 tackles
+Troy, Andersen, 44, Inside Linebacker, 1 sack, 25 tackles
+Nate, Landman, 53, Inside Linebacker, 0 sacks, 15 tackles
+JD, Bertrand, 40, Inside Linebacker, 0 sacks, 10 tackles
+A.J., Terrell, 24, Cornerback, 2 interceptions, 20 tackles
+Mike, Hughes, 21, Cornerback, 1 interception, 18 tackles
+Dee, Alford, 20, Cornerback, 1 interception, 15 tackles
+Clark, Phillips III, 22, Cornerback, 0 interceptions, 10 tackles
+Antonio, Hamilton Sr., 33, Cornerback, 0 interceptions, 8 tackles
+Jessie, Bates III, 3, Safety, 3 interceptions, 30 tackles
+Justin, Simmons, 31, Safety, 2 interceptions, 25 tackles
+Richie, Grant, 27, Safety, 1 interception, 20 tackles
+Micah, Abernathy, 29, Safety, 0 interceptions, 10 tackles
+Younghoe, Koo, 6, Kicker, 15 field goals made
+Bradley, Pinion, 13, Punter, 40 punts, 45.0 average yards
+Liam, McCullough, 47, Long Snapper, Starting Long Snapper

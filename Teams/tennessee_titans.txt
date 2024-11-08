@@ -1,0 +1,35 @@
+Tennessee Titans
+7
+3
+Mike Vrabel
+Nashville, TN
+
+Players:
+Ryan, Tannehill, 17, Quarterback, 2,500 passing yards, 17 TDs, 10 INTs
+Will, Levis, 8, Quarterback, 400 passing yards, 2 TDs, 1 INT
+Derrick, Henry, 22, Running Back, 1,300 rushing yards, 12 TDs
+Tyjae, Spears, 32, Running Back, 300 rushing yards, 2 TDs
+DeAndre, Hopkins, 10, Wide Receiver, 800 receiving yards, 6 TDs
+Treylon, Burks, 16, Wide Receiver, 500 receiving yards, 4 TDs
+Nick, Westbrook-Ikhine, 15, Wide Receiver, 300 receiving yards, 2 TDs
+Kyle, Philips, 18, Wide Receiver, 200 receiving yards, 1 TD
+Chigoziem, Okonkwo, 85, Tight End, 400 receiving yards, 4 TDs
+Josh, Whyle, 87, Tight End, 150 receiving yards, 1 TD
+Andre, Dillard, 71, Offensive Tackle, Starting Left Tackle
+Chris, Hubbard, 74, Offensive Tackle, Starting Right Tackle
+Peter, Skoronski, 77, Offensive Guard, Starting Left Guard
+Daniel, Brunskill, 60, Offensive Guard, Starting Right Guard
+Aaron, Brewer, 55, Center, Starting Center
+Jeffery, Simmons, 98, Defensive Tackle, 8 sacks, 50 tackles
+Denico, Autry, 96, Defensive End, 7 sacks, 40 tackles
+Harold, Landry III, 58, Linebacker, 10 sacks, 55 tackles
+Arden, Key, 49, Linebacker, 6 sacks, 40 tackles
+Azeez, Al-Shaair, 2, Linebacker, 1 sack, 80 tackles
+Jack, Gibbens, 50, Linebacker, 1 sack, 60 tackles
+Kristian, Fulton, 26, Cornerback, 2 interceptions, 40 tackles
+Sean, Murphy-Bunting, 0, Cornerback, 2 interceptions, 35 tackles
+Kevin, Byard, 31, Safety, 4 interceptions, 70 tackles
+Amani, Hooker, 37, Safety, 1 interception, 45 tackles
+Nick, Folk, 6, Kicker, 20 field goals made
+Ryan, Stonehouse, 4, Punter, 50 punts, 48.0 average yards
+Morgan, Cox, 46, Long Snapper, Starting Long Snapper

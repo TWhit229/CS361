@@ -1,0 +1,58 @@
+Carolina Panthers
+2
+7
+Dave Canales
+Charlotte, NC
+
+Players:
+Bryce, Young, 9, Quarterback, 1,800 passing yards, 10 TDs, 6 INTs
+Andy, Dalton, 14, Quarterback, 400 passing yards, 2 TDs, 1 INT
+Chuba, Hubbard, 30, Running Back, 500 rushing yards, 3 TDs
+Miles, Sanders, 6, Running Back, 300 rushing yards, 2 TDs
+Raheem, Blackshear, 3, Running Back, 150 rushing yards, 1 TD
+Adam, Thielen, 19, Wide Receiver, 600 receiving yards, 4 TDs
+Diontae, Johnson, 5, Wide Receiver, 500 receiving yards, 3 TDs
+Xavier, Legette, 17, Wide Receiver, 400 receiving yards, 2 TDs
+Jonathan, Mingo, 15, Wide Receiver, 300 receiving yards, 2 TDs
+Ihmir, Smith-Marsette, 16, Wide Receiver, 200 receiving yards, 1 TD
+David, Moore, 83, Wide Receiver, 100 receiving yards, 0 TDs
+Jalen, Coker, 18, Wide Receiver, 50 receiving yards, 0 TDs
+Tommy, Tremble, 82, Tight End, 200 receiving yards, 2 TDs
+Ian, Thomas, 80, Tight End, 150 receiving yards, 1 TD
+Ja'Tavion, Sanders, 0, Tight End, 100 receiving yards, 1 TD
+Ikem, Ekwonu, 79, Offensive Tackle, Starting Left Tackle
+Taylor, Moton, 72, Offensive Tackle, Starting Right Tackle
+Austin, Corbett, 63, Guard, Starting Right Guard
+Damien, Lewis, 68, Guard, Starting Left Guard
+Robert, Hunt, 61, Center, Starting Center
+Brady, Christensen, 70, Offensive Line, Backup
+Yosh, Nijman, 73, Offensive Line, Backup
+Cade, Mays, 64, Offensive Line, Backup
+Chandler, Zavala, 62, Offensive Line, Backup
+Andrew, Raym, 55, Offensive Line, Backup
+Derrick, Brown, 95, Defensive Tackle, 3 sacks, 25 tackles
+A'Shawn, Robinson, 94, Defensive Tackle, 2 sacks, 20 tackles
+Shy, Tuttle, 99, Defensive Tackle, 1 sack, 15 tackles
+LaBryan, Ray, 93, Defensive End, 2 sacks, 18 tackles
+Jaden, Crumedy, 96, Defensive End, 1 sack, 12 tackles
+Jayden, Peevy, 97, Defensive End, 1 sack, 10 tackles
+Jadeveon, Clowney, 7, Outside Linebacker, 4 sacks, 30 tackles
+K'Lavon, Chaisson, 45, Outside Linebacker, 3 sacks, 25 tackles
+DJ, Johnson, 52, Outside Linebacker, 2 sacks, 20 tackles
+Eku, Leota, 53, Outside Linebacker, 1 sack, 15 tackles
+Shaq, Thompson, 54, Inside Linebacker, 1 sack, 50 tackles
+Frankie, Luvu, 49, Inside Linebacker, 2 sacks, 45 tackles
+Trevin, Wallace, 56, Inside Linebacker, 1 sack, 30 tackles
+Claudin, Cherelus, 57, Inside Linebacker, 0 sacks, 20 tackles
+Jaycee, Horn, 8, Cornerback, 2 interceptions, 20 tackles
+Donte, Jackson, 26, Cornerback, 1 interception, 18 tackles
+C.J., Henderson, 24, Cornerback, 1 interception, 15 tackles
+Keith, Taylor Jr., 28, Cornerback, 0 interceptions, 10 tackles
+Stantley, Thomas-Oliver III, 23, Cornerback, 0 interceptions, 8 tackles
+Xavier, Woods, 25, Safety, 1 interception, 30 tackles
+Jeremy, Chinn, 21, Safety, 1 interception, 25 tackles
+Jammie, Robinson, 22, Safety, 0 interceptions, 20 tackles
+Sam, Franklin Jr., 42, Safety, 0 interceptions, 15 tackles
+Eddy, Piñeiro, 4, Kicker, 15 field goals made
+Johnny, Hekker, 10, Punter, 40 punts, 45.0 average yards
+JJ, Jansen, 44, Long Snapper, Starting Long Snapper

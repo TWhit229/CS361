@@ -1,0 +1,37 @@
+Tampa Bay Buccaneers
+4
+5
+Todd Bowles
+Tampa, FL
+
+Players:
+Baker, Mayfield, 6, Quarterback, 2,500 passing yards, 18 TDs, 7 INTs
+Kyle, Trask, 2, Quarterback, 500 passing yards, 3 TDs, 2 INTs
+Rachaad, White, 1, Running Back, 700 rushing yards, 5 TDs
+Bucky, Irving, 7, Running Back, 400 rushing yards, 3 TDs
+Sean, Tucker, 44, Running Back, 200 rushing yards, 1 TD
+Mike, Evans, 13, Wide Receiver, 800 receiving yards, 6 TDs
+Chris, Godwin, 14, Wide Receiver, 700 receiving yards, 5 TDs
+Trey, Palmer, 10, Wide Receiver, 500 receiving yards, 4 TDs
+Deven, Thompkins, 83, Wide Receiver, 300 receiving yards, 2 TDs
+Rakim, Jarrett, 17, Wide Receiver, 200 receiving yards, 1 TD
+Cade, Otton, 88, Tight End, 400 receiving yards, 3 TDs
+Payne, Durham, 87, Tight End, 200 receiving yards, 2 TDs
+Tristan, Wirfs, 78, Offensive Tackle, Starting Left Tackle
+Luke, Goedeke, 67, Offensive Tackle, Starting Right Tackle
+Matt, Feiler, 71, Offensive Guard, Starting Left Guard
+Cody, Mauch, 69, Offensive Guard, Starting Right Guard
+Robert, Hainsey, 70, Center, Starting Center
+Vita, Vea, 50, Defensive Tackle, 4 sacks, 30 tackles
+Calijah, Kancey, 94, Defensive Tackle, 3 sacks, 25 tackles
+Shaquil, Barrett, 58, Outside Linebacker, 5 sacks, 28 tackles
+Joe, Tryon-Shoyinka, 9, Outside Linebacker, 4 sacks, 26 tackles
+Lavonte, David, 54, Inside Linebacker, 1 sack, 50 tackles
+Devin, White, 45, Inside Linebacker, 1 sack, 45 tackles
+Carlton, Davis III, 24, Cornerback, 3 interceptions, 20 tackles
+Jamel, Dean, 35, Cornerback, 2 interceptions, 18 tackles
+Antoine, Winfield Jr., 31, Safety, 2 interceptions, 25 tackles
+Ryan, Neal, 26, Safety, 1 interception, 20 tackles
+Chase, McLaughlin, 3, Kicker, 15 field goals made
+Jake, Camarda, 5, Punter, 40 punts, 45.0 average yards
+Zach, Triner, 46, Long Snapper, Starting Long Snapper

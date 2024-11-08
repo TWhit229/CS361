@@ -1,0 +1,52 @@
+Chicago Bears
+4
+4
+Matt Eberflus
+Chicago, IL
+
+Players:
+Caleb, Williams, 18, Quarterback, 2,200 passing yards, 16 TDs, 6 INTs
+Tyson, Bagent, 17, Quarterback, 500 passing yards, 3 TDs, 2 INTs
+D'Andre, Swift, 4, Running Back, 600 rushing yards, 5 TDs
+Khalil, Herbert, 24, Running Back, 400 rushing yards, 3 TDs
+Roschon, Johnson, 23, Running Back, 200 rushing yards, 2 TDs
+DJ, Moore, 2, Wide Receiver, 700 receiving yards, 5 TDs
+Keenan, Allen, 13, Wide Receiver, 600 receiving yards, 4 TDs
+Rome, Odunze, 15, Wide Receiver, 400 receiving yards, 3 TDs
+Tyler, Scott, 10, Wide Receiver, 300 receiving yards, 2 TDs
+Velus, Jones Jr., 12, Wide Receiver, 200 receiving yards, 1 TD
+DeAndre, Carter, 11, Wide Receiver, 100 receiving yards, 0 TDs
+Cole, Kmet, 85, Tight End, 500 receiving yards, 4 TDs
+Gerald, Everett, 81, Tight End, 300 receiving yards, 2 TDs
+Marcedes, Lewis, 84, Tight End, 100 receiving yards, 1 TD
+Braxton, Jones, 70, Offensive Tackle, Starting Left Tackle
+Darnell, Wright, 58, Offensive Tackle, Starting Right Tackle
+Kiran, Amegadjie, 72, Offensive Guard, Starting Left Guard
+Nate, Davis, 64, Offensive Guard, Starting Right Guard
+Coleman, Shelton, 65, Center, Starting Center
+Teven, Jenkins, 76, Offensive Line, Backup
+Matt, Pryor, 79, Offensive Line, Backup
+Ryan, Bates, 71, Offensive Line, Backup
+Bill, Murray, 60, Offensive Line, Backup
+Andrew, Billings, 97, Defensive Tackle, 2 sacks, 20 tackles
+Gervon, Dexter Sr., 68, Defensive Tackle, 1 sack, 15 tackles
+Zacch, Pickens, 96, Defensive Tackle, 1 sack, 12 tackles
+Montez, Sweat, 98, Defensive End, 4 sacks, 25 tackles
+DeMarcus, Walker, 95, Defensive End, 3 sacks, 20 tackles
+Darrell, Taylor, 52, Defensive End, 2 sacks, 18 tackles
+Dominique, Robinson, 90, Defensive End, 1 sack, 15 tackles
+Jack, Sanborn, 57, Linebacker, 1 sack, 50 tackles
+Tremaine, Edmunds, 49, Linebacker, 2 sacks, 45 tackles
+T.J., Edwards, 53, Linebacker, 1 sack, 40 tackles
+Noah, Sewell, 44, Linebacker, 0 sacks, 20 tackles
+Jaquan, Brisker, 9, Safety, 2 interceptions, 30 tackles
+Kevin, Byard III, 31, Safety, 1 interception, 25 tackles
+Jonathan, Owens, 36, Safety, 0 interceptions, 20 tackles
+Josh, Blackwell, 39, Cornerback, 1 interception, 15 tackles
+Tyrique, Stevenson, 29, Cornerback, 1 interception, 18 tackles
+Jaylon, Johnson, 33, Cornerback, 2 interceptions, 20 tackles
+Kyler, Gordon, 6, Cornerback, 1 interception, 15 tackles
+Terell, Smith, 32, Cornerback, 0 interceptions, 10 tackles
+Cairo, Santos, 8, Kicker, 15 field goals made
+Tory, Taylor, 19, Punter, 40 punts, 45.0 average yards
+Patrick, Scales, 48, Long Snapper, Starting Long Snapper

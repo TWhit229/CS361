@@ -1,0 +1,35 @@
+Cleveland Browns
+6
+3
+Kevin Stefanski
+Cleveland, OH
+
+Players:
+Deshaun, Watson, 4, Quarterback, 3,100 passing yards, 22 TDs, 10 INTs
+Dorian, Thompson-Robinson, 17, Quarterback, 400 passing yards, 3 TDs, 2 INTs
+Nick, Chubb, 24, Running Back, 1,200 rushing yards, 10 TDs
+Jerome, Ford, 34, Running Back, 300 rushing yards, 2 TDs
+Amari, Cooper, 2, Wide Receiver, 1,000 receiving yards, 8 TDs
+Donovan, Peoples-Jones, 11, Wide Receiver, 600 receiving yards, 4 TDs
+Elijah, Moore, 8, Wide Receiver, 500 receiving yards, 3 TDs
+David, Bell, 18, Wide Receiver, 200 receiving yards, 1 TD
+David, Njoku, 85, Tight End, 700 receiving yards, 6 TDs
+Harrison, Bryant, 88, Tight End, 200 receiving yards, 2 TDs
+Jedrick, Wills Jr., 71, Offensive Tackle, Starting Left Tackle
+Jack, Conklin, 78, Offensive Tackle, Starting Right Tackle
+Joel, Bitonio, 75, Offensive Guard, Starting Left Guard
+Wyatt, Teller, 77, Offensive Guard, Starting Right Guard
+Ethan, Pocic, 55, Center, Starting Center
+Myles, Garrett, 95, Defensive End, 16 sacks, 60 tackles
+Za'Darius, Smith, 99, Defensive End, 10 sacks, 45 tackles
+Dalvin, Tomlinson, 94, Defensive Tackle, 4 sacks, 30 tackles
+Jordan, Elliott, 96, Defensive Tackle, 2 sacks, 25 tackles
+Jeremiah, Owusu-Koramoah, 6, Linebacker, 1 sack, 70 tackles
+Anthony, Walker Jr., 5, Linebacker, 1 sack, 65 tackles
+Denzel, Ward, 21, Cornerback, 3 interceptions, 40 tackles
+Greg, Newsome II, 20, Cornerback, 1 interception, 30 tackles
+Grant, Delpit, 22, Safety, 2 interceptions, 50 tackles
+Juan, Thornhill, 1, Safety, 1 interception, 45 tackles
+Cade, York, 3, Kicker, 24 field goals made
+Corey, Bojorquez, 13, Punter, 45 punts, 46.0 average yards
+Charley, Hughlett, 47, Long Snapper, Starting Long Snapper

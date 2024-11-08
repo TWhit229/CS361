@@ -1,0 +1,32 @@
+New England Patriots
+7
+3
+Bill Belichick
+Foxborough, MA
+
+Players:
+Mac, Jones, 10, Quarterback, 2,800 passing yards, 15 TDs, 10 INTs
+Bailey, Zappe, 4, Quarterback, 500 passing yards, 3 TDs, 2 INTs
+Rhamondre, Stevenson, 38, Running Back, 1,000 rushing yards, 8 TDs
+Ezekiel, Elliott, 15, Running Back, 500 rushing yards, 4 TDs
+DeVante, Parker, 1, Wide Receiver, 700 receiving yards, 5 TDs
+JuJu, Smith-Schuster, 7, Wide Receiver, 600 receiving yards, 4 TDs
+Kendrick, Bourne, 84, Wide Receiver, 400 receiving yards, 3 TDs
+Tyquan, Thornton, 11, Wide Receiver, 300 receiving yards, 2 TDs
+Hunter, Henry, 85, Tight End, 500 receiving yards, 5 TDs
+Mike, Gesicki, 88, Tight End, 300 receiving yards, 3 TDs
+Trent, Brown, 77, Offensive Tackle, Starting Left Tackle
+Riley, Reiff, 71, Offensive Tackle, Starting Right Tackle
+Cole, Strange, 69, Offensive Guard, Starting Left Guard
+Michael, Onwenu, 60, Offensive Guard, Starting Right Guard
+David, Andrews, 62, Center, Starting Center
+Matthew, Judon, 9, Linebacker, 15 sacks, 60 tackles
+Josh, Uche, 55, Linebacker, 10 sacks, 45 tackles
+Ja'Whaun, Bentley, 8, Linebacker, 2 sacks, 85 tackles
+Jabrill, Peppers, 3, Safety, 3 interceptions, 70 tackles
+Kyle, Dugger, 23, Safety, 2 interceptions, 65 tackles
+Christian, Gonzalez, 19, Cornerback, 3 interceptions, 50 tackles
+Jonathan, Jones, 31, Cornerback, 1 interception, 40 tackles
+Chad, Ryland, 14, Kicker, 24 field goals made
+Bryce, Baringer, 6, Punter, 50 punts, 46.0 average yards
+Joe, Cardona, 49, Long Snapper, Starting Long Snapper

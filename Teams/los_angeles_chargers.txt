@@ -1,0 +1,35 @@
+Los Angeles Chargers
+9
+3
+Brandon Staley
+Los Angeles, CA
+
+Players:
+Justin, Herbert, 10, Quarterback, 4,200 passing yards, 35 TDs, 8 INTs
+Easton, Stick, 2, Quarterback, 300 passing yards, 2 TDs, 1 INT
+Austin, Ekeler, 30, Running Back, 1,000 rushing yards, 12 TDs, 500 receiving yards, 4 TDs
+Joshua, Kelley, 25, Running Back, 400 rushing yards, 2 TDs
+Keenan, Allen, 13, Wide Receiver, 1,200 receiving yards, 10 TDs
+Mike, Williams, 81, Wide Receiver, 800 receiving yards, 6 TDs
+Quentin, Johnston, 1, Wide Receiver, 500 receiving yards, 4 TDs
+Josh, Palmer, 5, Wide Receiver, 400 receiving yards, 2 TDs
+Gerald, Everett, 7, Tight End, 500 receiving yards, 5 TDs
+Donald, Parham Jr., 89, Tight End, 200 receiving yards, 2 TDs
+Rashawn, Slater, 70, Offensive Tackle, Starting Left Tackle
+Trey, Pipkins III, 79, Offensive Tackle, Starting Right Tackle
+Zion, Johnson, 77, Offensive Guard, Starting Left Guard
+Jamaree, Salyer, 68, Offensive Guard, Starting Right Guard
+Corey, Linsley, 63, Center, Starting Center
+Joey, Bosa, 97, Defensive End, 10 sacks, 50 tackles
+Khalil, Mack, 52, Defensive End, 9 sacks, 45 tackles
+Sebastian, Joseph-Day, 69, Defensive Tackle, 3 sacks, 30 tackles
+Austin, Johnson, 98, Defensive Tackle, 2 sacks, 25 tackles
+Kenneth, Murray Jr., 9, Linebacker, 2 sacks, 80 tackles
+Eric, Kendricks, 6, Linebacker, 1 sack, 70 tackles
+J.C., Jackson, 27, Cornerback, 4 interceptions, 40 tackles
+Asante, Samuel Jr., 26, Cornerback, 3 interceptions, 35 tackles
+Derwin, James Jr., 3, Safety, 3 interceptions, 80 tackles
+Alohi, Gilman, 32, Safety, 1 interception, 50 tackles
+Cameron, Dicker, 17, Kicker, 27 field goals made
+J.K., Scott, 8, Punter, 45 punts, 46.0 average yards
+Josh, Harris, 47, Long Snapper, Starting Long Snapper

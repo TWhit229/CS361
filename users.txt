@@ -1,0 +1,2 @@
+Admin, Password, {"teams": [], "players": ["Mayfield, Baker", "Higgins, Tee"]}
+Guest, 123456789, {"teams": ["Los Angeles Rams"], "players": ["Mayfield, Baker"]}

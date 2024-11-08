@@ -1,0 +1,35 @@
+Indianapolis Colts
+5
+5
+Shane Steichen
+Indianapolis, IN
+
+Players:
+Anthony, Richardson, 5, Quarterback, 2,800 passing yards, 18 TDs, 10 INTs
+Gardner, Minshew, 10, Quarterback, 500 passing yards, 3 TDs, 2 INTs
+Jonathan, Taylor, 28, Running Back, 1,200 rushing yards, 10 TDs
+Zack, Moss, 21, Running Back, 400 rushing yards, 2 TDs
+Michael, Pittman Jr., 11, Wide Receiver, 800 receiving yards, 6 TDs
+Alec, Pierce, 14, Wide Receiver, 600 receiving yards, 4 TDs
+Josh, Downs, 1, Wide Receiver, 500 receiving yards, 3 TDs
+Ashton, Dulin, 16, Wide Receiver, 300 receiving yards, 2 TDs
+Kylen, Granson, 83, Tight End, 400 receiving yards, 4 TDs
+Mo, Alie-Cox, 81, Tight End, 200 receiving yards, 2 TDs
+Bernhard, Raimann, 79, Offensive Tackle, Starting Left Tackle
+Braden, Smith, 72, Offensive Tackle, Starting Right Tackle
+Quenton, Nelson, 56, Offensive Guard, Starting Left Guard
+Will, Fries, 75, Offensive Guard, Starting Right Guard
+Ryan, Kelly, 78, Center, Starting Center
+DeForest, Buckner, 99, Defensive Tackle, 6 sacks, 50 tackles
+Grover, Stewart, 90, Defensive Tackle, 4 sacks, 35 tackles
+Kwity, Paye, 51, Defensive End, 7 sacks, 45 tackles
+Samson, Ebukam, 52, Defensive End, 5 sacks, 30 tackles
+Shaquille, Leonard, 53, Linebacker, 1 sack, 70 tackles
+Zaire, Franklin, 44, Linebacker, 1 sack, 80 tackles
+Kenny, Moore II, 23, Cornerback, 3 interceptions, 40 tackles
+Dallis, Flowers, 33, Cornerback, 1 interception, 25 tackles
+Rodney, Thomas II, 25, Safety, 2 interceptions, 45 tackles
+Julian, Blackmon, 32, Safety, 1 interception, 40 tackles
+Matt, Gay, 7, Kicker, 28 field goals made
+Rigoberto, Sanchez, 8, Punter, 50 punts, 47.0 average yards
+Luke, Rhodes, 46, Long Snapper, Starting Long Snapper

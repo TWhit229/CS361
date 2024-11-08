@@ -1,0 +1,35 @@
+Denver Broncos
+5
+4
+Sean Payton
+Denver, CO
+
+Players:
+Russell, Wilson, 3, Quarterback, 3,000 passing yards, 20 TDs, 9 INTs
+Jarrett, Stidham, 4, Quarterback, 400 passing yards, 3 TDs, 2 INTs
+Javonte, Williams, 33, Running Back, 800 rushing yards, 5 TDs
+Samaje, Perine, 25, Running Back, 400 rushing yards, 3 TDs
+Courtland, Sutton, 14, Wide Receiver, 700 receiving yards, 5 TDs
+Jerry, Jeudy, 10, Wide Receiver, 600 receiving yards, 4 TDs
+Marvin, Mims Jr., 19, Wide Receiver, 500 receiving yards, 3 TDs
+Tim, Patrick, 81, Wide Receiver, 300 receiving yards, 2 TDs
+Greg, Dulcich, 80, Tight End, 400 receiving yards, 4 TDs
+Adam, Trautman, 82, Tight End, 200 receiving yards, 2 TDs
+Garett, Bolles, 72, Offensive Tackle, Starting Left Tackle
+Mike, McGlinchey, 69, Offensive Tackle, Starting Right Tackle
+Ben, Powers, 70, Offensive Guard, Starting Left Guard
+Quinn, Meinerz, 77, Offensive Guard, Starting Right Guard
+Lloyd, Cushenberry III, 79, Center, Starting Center
+Randy, Gregory, 5, Defensive End, 6 sacks, 40 tackles
+Zach, Allen, 94, Defensive End, 5 sacks, 35 tackles
+D.J., Jones, 97, Defensive Tackle, 2 sacks, 30 tackles
+Jonathon, Cooper, 53, Defensive End, 3 sacks, 25 tackles
+Josey, Jewell, 47, Linebacker, 1 sack, 75 tackles
+Alex, Singleton, 49, Linebacker, 1 sack, 80 tackles
+Patrick, Surtain II, 2, Cornerback, 3 interceptions, 45 tackles
+Damarri, Mathis, 27, Cornerback, 1 interception, 35 tackles
+Justin, Simmons, 31, Safety, 4 interceptions, 60 tackles
+Kareem, Jackson, 22, Safety, 1 interception, 50 tackles
+Wil, Lutz, 5, Kicker, 22 field goals made
+Riley, Dixon, 9, Punter, 50 punts, 46.5 average yards
+Mitchell, Fraboni, 46, Long Snapper, Starting Long Snapper

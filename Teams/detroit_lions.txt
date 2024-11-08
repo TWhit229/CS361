@@ -1,0 +1,40 @@
+Detroit Lions
+7
+1
+Dan Campbell
+Detroit, MI
+
+Players:
+Jared, Goff, 16, Quarterback, 2,500 passing yards, 18 TDs, 4 INTs
+Hendon, Hooker, 12, Quarterback, 300 passing yards, 2 TDs, 1 INT
+David, Montgomery, 5, Running Back, 700 rushing yards, 6 TDs
+Jahmyr, Gibbs, 26, Running Back, 500 rushing yards, 4 TDs
+Craig, Reynolds, 13, Running Back, 200 rushing yards, 1 TD
+Amon-Ra, St. Brown, 14, Wide Receiver, 800 receiving yards, 5 TDs
+Jameson, Williams, 9, Wide Receiver, 600 receiving yards, 4 TDs
+Marvin, Jones Jr., 11, Wide Receiver, 400 receiving yards, 3 TDs
+Kalif, Raymond, 4, Wide Receiver, 300 receiving yards, 2 TDs
+Sam, LaPorta, 87, Tight End, 500 receiving yards, 4 TDs
+Brock, Wright, 89, Tight End, 200 receiving yards, 2 TDs
+Taylor, Decker, 68, Offensive Tackle, Starting Left Tackle
+Penei, Sewell, 58, Offensive Tackle, Starting Right Tackle
+Jonah, Jackson, 73, Offensive Guard, Starting Left Guard
+Halapoulivaati, Vaitai, 72, Offensive Guard, Starting Right Guard
+Frank, Ragnow, 77, Center, Starting Center
+Aidan, Hutchinson, 97, Defensive End, 6 sacks, 30 tackles
+Charles, Harris, 53, Defensive End, 3 sacks, 20 tackles
+Alim, McNeill, 54, Defensive Tackle, 2 sacks, 25 tackles
+Isaiah, Buggs, 96, Defensive Tackle, 1 sack, 20 tackles
+Alex, Anzalone, 34, Linebacker, 1 sack, 50 tackles
+Malcolm, Rodriguez, 44, Linebacker, 2 sacks, 40 tackles
+Derrick, Barnes, 55, Linebacker, 1 sack, 35 tackles
+Jack, Campbell, 46, Linebacker, 1 sack, 30 tackles
+Cameron, Sutton, 1, Cornerback, 2 interceptions, 20 tackles
+Emmanuel, Moseley, 4, Cornerback, 1 interception, 18 tackles
+Jerry, Jacobs, 39, Cornerback, 1 interception, 15 tackles
+Kerby, Joseph, 31, Safety, 2 interceptions, 25 tackles
+Tracy, Walker III, 21, Safety, 1 interception, 20 tackles
+Brian, Branch, 32, Safety, 1 interception, 18 tackles
+Riley, Patterson, 36, Kicker, 15 field goals made
+Jack, Fox, 3, Punter, 40 punts, 45.0 average yards
+Scott, Daly, 47, Long Snapper, Starting Long Snapper

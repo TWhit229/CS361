@@ -1,0 +1,32 @@
+Baltimore Ravens
+7
+3
+John Harbaugh
+Baltimore, MD
+
+Players:
+Lamar, Jackson, 8, Quarterback, 3,000 passing yards, 20 TDs, 7 INTs
+Tyler, Huntley, 2, Quarterback, 500 passing yards, 3 TDs, 2 INTs
+Gus, Edwards, 35, Running Back, 800 rushing yards, 7 TDs
+Justice, Hill, 43, Running Back, 400 rushing yards, 3 TDs
+Keaton, Mitchell, 34, Running Back, 200 rushing yards, 1 TD
+Odell, Beckham Jr., 3, Wide Receiver, 700 receiving yards, 5 TDs
+Rashod, Bateman, 7, Wide Receiver, 600 receiving yards, 4 TDs
+Zay, Flowers, 4, Wide Receiver, 500 receiving yards, 3 TDs
+Nelson, Agholor, 15, Wide Receiver, 300 receiving yards, 2 TDs
+Mark, Andrews, 89, Tight End, 800 receiving yards, 6 TDs
+Isaiah, Likely, 80, Tight End, 300 receiving yards, 2 TDs
+Ronnie, Stanley, 79, Offensive Tackle, Starting Left Tackle
+Morgan, Moses, 78, Offensive Tackle, Starting Right Tackle
+Ben, Cleveland, 66, Offensive Guard, Starting Left Guard
+Kevin, Zeitler, 70, Offensive Guard, Starting Right Guard
+Tyler, Linderbaum, 64, Center, Starting Center
+Roquan, Smith, 18, Linebacker, 1 sack, 120 tackles
+Patrick, Queen, 6, Linebacker, 3 sacks, 90 tackles
+Marlon, Humphrey, 44, Cornerback, 3 interceptions, 40 tackles
+Marcus, Peters, 24, Cornerback, 2 interceptions, 35 tackles
+Kyle, Hamilton, 14, Safety, 2 interceptions, 60 tackles
+Geno, Stone, 26, Safety, 1 interception, 40 tackles
+Justin, Tucker, 9, Kicker, 30 field goals made
+Jordan, Stout, 11, Punter, 40 punts, 46.0 average yards
+Nick, Moore, 46, Long Snapper, Starting Long Snapper

@@ -1,0 +1,35 @@
+Pittsburgh Steelers
+7
+3
+Mike Tomlin
+Pittsburgh, PA
+
+Players:
+Kenny, Pickett, 8, Quarterback, 3,200 passing yards, 20 TDs, 10 INTs
+Mitch, Trubisky, 10, Quarterback, 400 passing yards, 2 TDs, 1 INT
+Najee, Harris, 22, Running Back, 1,100 rushing yards, 8 TDs
+Jaylen, Warren, 30, Running Back, 400 rushing yards, 3 TDs
+Diontae, Johnson, 18, Wide Receiver, 900 receiving yards, 5 TDs
+George, Pickens, 14, Wide Receiver, 800 receiving yards, 6 TDs
+Allen, Robinson II, 11, Wide Receiver, 400 receiving yards, 3 TDs
+Calvin, Austin III, 19, Wide Receiver, 300 receiving yards, 2 TDs
+Pat, Freiermuth, 88, Tight End, 600 receiving yards, 5 TDs
+Darnell, Washington, 80, Tight End, 200 receiving yards, 1 TD
+Dan, Moore Jr., 65, Offensive Tackle, Starting Left Tackle
+Chukwuma, Okorafor, 76, Offensive Tackle, Starting Right Tackle
+Isaac, Seumalo, 73, Offensive Guard, Starting Left Guard
+James, Daniels, 78, Offensive Guard, Starting Right Guard
+Mason, Cole, 61, Center, Starting Center
+T.J., Watt, 90, Linebacker, 15 sacks, 60 tackles
+Alex, Highsmith, 56, Linebacker, 12 sacks, 55 tackles
+Larry, Ogunjobi, 99, Defensive Tackle, 5 sacks, 40 tackles
+Cameron, Heyward, 97, Defensive End, 7 sacks, 50 tackles
+Myles, Jack, 51, Linebacker, 1 sack, 70 tackles
+Cole, Holcomb, 55, Linebacker, 2 sacks, 80 tackles
+Patrick, Peterson, 20, Cornerback, 3 interceptions, 50 tackles
+Levi, Wallace, 29, Cornerback, 2 interceptions, 45 tackles
+Minkah, Fitzpatrick, 39, Safety, 4 interceptions, 70 tackles
+Keanu, Neal, 31, Safety, 1 interception, 50 tackles
+Chris, Boswell, 9, Kicker, 26 field goals made
+Pressley, Harvin III, 6, Punter, 50 punts, 45.5 average yards
+Christian, Kuntz, 46, Long Snapper, Starting Long Snapper

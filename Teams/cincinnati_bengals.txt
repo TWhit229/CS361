@@ -1,0 +1,36 @@
+Cincinnati Bengals
+9
+1
+Zac Taylor
+Cincinnati, OH
+
+Players:
+Joe, Burrow, 9, Quarterback, 3,500 passing yards, 30 TDs, 8 INTs
+Jake, Browning, 6, Quarterback, 300 passing yards, 2 TDs, 1 INT
+Joe, Mixon, 28, Running Back, 1,000 rushing yards, 8 TDs
+Chris, Evans, 25, Running Back, 300 rushing yards, 2 TDs
+Trayveon, Williams, 32, Running Back, 200 rushing yards, 1 TD
+Ja'Marr, Chase, 1, Wide Receiver, 1,200 receiving yards, 10 TDs
+Tee, Higgins, 85, Wide Receiver, 900 receiving yards, 7 TDs
+Tyler, Boyd, 83, Wide Receiver, 600 receiving yards, 4 TDs
+Trenton, Irwin, 16, Wide Receiver, 300 receiving yards, 2 TDs
+Irv, Smith Jr., 81, Tight End, 500 receiving yards, 5 TDs
+Mitchell, Wilcox, 84, Tight End, 200 receiving yards, 1 TD
+Jonah, Williams, 73, Offensive Tackle, Starting Right Tackle
+Orlando, Brown Jr., 75, Offensive Tackle, Starting Left Tackle
+Alex, Cappa, 65, Offensive Guard, Starting Right Guard
+Cordell, Volson, 67, Offensive Guard, Starting Left Guard
+Ted, Karras, 64, Center, Starting Center
+Sam, Hubbard, 94, Defensive End, 7 sacks, 40 tackles
+Trey, Hendrickson, 91, Defensive End, 10 sacks, 45 tackles
+B.J., Hill, 92, Defensive Tackle, 4 sacks, 35 tackles
+D.J., Reader, 98, Defensive Tackle, 3 sacks, 30 tackles
+Logan, Wilson, 55, Linebacker, 2 sacks, 80 tackles
+Germaine, Pratt, 57, Linebacker, 1 sack, 70 tackles
+Chidobe, Awuzie, 22, Cornerback, 2 interceptions, 50 tackles
+Mike, Hilton, 21, Cornerback, 1 interception, 40 tackles
+Dax, Hill, 23, Safety, 3 interceptions, 60 tackles
+Nick, Scott, 33, Safety, 2 interceptions, 50 tackles
+Evan, McPherson, 2, Kicker, 30 field goals made
+Brad, Robbins, 10, Punter, 50 punts, 47.0 average yards
+Cal, Adomitis, 48, Long Snapper, Starting Long Snapper

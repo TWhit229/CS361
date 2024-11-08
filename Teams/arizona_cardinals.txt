@@ -1,0 +1,59 @@
+Arizona Cardinals
+4
+5
+Jonathan Gannon
+Glendale, AZ
+
+Players:
+Kyler, Murray, 1, Quarterback, 2,100 passing yards, 15 TDs, 5 INTs
+Clayton, Tune, 15, Quarterback, 500 passing yards, 3 TDs, 2 INTs
+James, Conner, 6, Running Back, 700 rushing yards, 6 TDs
+Trey, Benson, 33, Running Back, 300 rushing yards, 2 TDs
+Emari, Demercado, 31, Running Back, 200 rushing yards, 1 TD
+Marvin, Harrison Jr., 18, Wide Receiver, 800 receiving yards, 5 TDs
+Michael, Wilson, 14, Wide Receiver, 600 receiving yards, 4 TDs
+Greg, Dortch, 83, Wide Receiver, 400 receiving yards, 2 TDs
+Zach, Pascal, 3, Wide Receiver, 300 receiving yards, 1 TD
+Xavier, Weaver, 89, Wide Receiver, 200 receiving yards, 1 TD
+Chris, Moore, 10, Wide Receiver, 100 receiving yards, 0 TDs
+Trey, McBride, 85, Tight End, 500 receiving yards, 4 TDs
+Elijah, Higgins, 84, Tight End, 200 receiving yards, 1 TD
+Tip, Reiman, 87, Tight End, 100 receiving yards, 0 TDs
+Travis, Vokolek, 81, Tight End, 50 receiving yards, 0 TDs
+Paris, Johnson Jr., 70, Offensive Tackle, Starting Left Tackle
+Jonah, Williams, 73, Offensive Tackle, Starting Right Tackle
+Hjalte, Froholdt, 67, Center, Starting Center
+Will, Hernandez, 76, Guard, Starting Right Guard
+Evan, Brown, 62, Guard, Starting Left Guard
+Isaiah, Adams, 74, Offensive Line, Backup
+Kelvin, Beachum, 68, Offensive Line, Backup
+Jon, Gaines II, 66, Offensive Line, Backup
+Trystan, Colon, 60, Offensive Line, Backup
+Bilal, Nichols, 91, Defensive Tackle, 3 sacks, 20 tackles
+Justin, Jones, 93, Defensive Tackle, 2 sacks, 18 tackles
+Roy, Lopez, 95, Defensive Tackle, 1 sack, 15 tackles
+Khyiris, Tonga, 95, Defensive Tackle, 1 sack, 12 tackles
+L.J., Collier, 91, Defensive End, 2 sacks, 14 tackles
+Dante, Stills, 55, Defensive End, 1 sack, 10 tackles
+Zaven, Collins, 25, Linebacker, 2 sacks, 50 tackles
+Dennis, Gardeck, 45, Linebacker, 3 sacks, 40 tackles
+Xavier, Thomas, 54, Linebacker, 1 sack, 20 tackles
+Jesse, Luketa, 43, Linebacker, 1 sack, 15 tackles
+Victor, Dimukeje, 52, Linebacker, 1 sack, 10 tackles
+Kyzir, White, 7, Linebacker, 1 sack, 60 tackles
+Mack, Wilson Sr., 2, Linebacker, 0 sacks, 30 tackles
+Owen, Pappoe, 44, Linebacker, 0 sacks, 20 tackles
+Sean, Murphy-Bunting, 23, Cornerback, 2 interceptions, 25 tackles
+Max, Melton, 24, Cornerback, 1 interception, 20 tackles
+Garrett, Williams, 21, Cornerback, 1 interception, 18 tackles
+Starling, Thomas V, 24, Cornerback, 0 interceptions, 15 tackles
+Kei'Trel, Clark, 13, Cornerback, 0 interceptions, 10 tackles
+Elijah, Jones, 27, Cornerback, 0 interceptions, 8 tackles
+Budda, Baker, 3, Safety, 1 interception, 50 tackles
+Jalen, Thompson, 34, Safety, 1 interception, 45 tackles
+Dadrion, Taylor-Demerson, 42, Safety, 0 interceptions, 30 tackles
+Darren, Hall, 34, Safety, 0 interceptions, 25 tackles
+Joey, Blount, 32, Safety, 0 interceptions, 20 tackles
+Matt, Prater, 5, Kicker, 15 field goals made
+Blake, Gillikin, 12, Punter, 40 punts, 45.0 average yards
+Aaron, Brewer, 46, Long Snapper, Starting Long Snapper

@@ -1,0 +1,37 @@
+New Orleans Saints
+2
+7
+Dennis Allen
+New Orleans, LA
+
+Players:
+Derek, Carr, 4, Quarterback, 2,000 passing yards, 14 TDs, 7 INTs
+Jake, Haener, 3, Quarterback, 500 passing yards, 3 TDs, 2 INTs
+Alvin, Kamara, 41, Running Back, 600 rushing yards, 5 TDs
+Jamaal, Williams, 21, Running Back, 300 rushing yards, 2 TDs
+Jordan, Mims, 33, Running Back, 200 rushing yards, 1 TD
+Chris, Olave, 12, Wide Receiver, 700 receiving yards, 5 TDs
+Rashid, Shaheed, 22, Wide Receiver, 500 receiving yards, 3 TDs
+A.T., Perry, 17, Wide Receiver, 400 receiving yards, 2 TDs
+Marquez, Callaway, 1, Wide Receiver, 300 receiving yards, 2 TDs
+Michael, Thomas, 13, Wide Receiver, 200 receiving yards, 1 TD
+Juwan, Johnson, 83, Tight End, 400 receiving yards, 3 TDs
+Foster, Moreau, 87, Tight End, 200 receiving yards, 2 TDs
+Trevor, Penning, 70, Offensive Tackle, Starting Left Tackle
+Ryan, Ramczyk, 71, Offensive Tackle, Starting Right Tackle
+Andrus, Peat, 75, Offensive Guard, Starting Left Guard
+Cesar, Ruiz, 51, Offensive Guard, Starting Right Guard
+Erik, McCoy, 78, Center, Starting Center
+Cameron, Jordan, 94, Defensive End, 5 sacks, 30 tackles
+Carl, Granderson, 96, Defensive End, 4 sacks, 25 tackles
+Bryan, Bresee, 90, Defensive Tackle, 3 sacks, 20 tackles
+Khalen, Saunders, 99, Defensive Tackle, 2 sacks, 18 tackles
+Demario, Davis, 56, Linebacker, 1 sack, 50 tackles
+Pete, Werner, 20, Linebacker, 1 sack, 45 tackles
+Marshon, Lattimore, 23, Cornerback, 3 interceptions, 20 tackles
+Alontae, Taylor, 1, Cornerback, 2 interceptions, 18 tackles
+Tyrann, Mathieu, 32, Safety, 2 interceptions, 25 tackles
+Marcus, Maye, 6, Safety, 1 interception, 20 tackles
+Blake, Grupe, 19, Kicker, 15 field goals made
+Matthew, Hayball, 43, Punter, 40 punts, 45.0 average yards
+Zach, Wood, 49, Long Snapper, Starting Long Snapper

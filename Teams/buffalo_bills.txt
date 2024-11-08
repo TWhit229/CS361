@@ -1,0 +1,36 @@
+Buffalo Bills
+8
+2
+Sean McDermott
+Orchard Park, NY
+
+Players:
+Josh, Allen, 17, Quarterback, 3,200 passing yards, 24 TDs, 10 INTs
+Kyle, Allen, 9, Quarterback, 300 passing yards, 2 TDs, 1 INT
+James, Cook, 28, Running Back, 800 rushing yards, 5 TDs
+Damien, Harris, 22, Running Back, 400 rushing yards, 3 TDs
+Latavius, Murray, 34, Running Back, 200 rushing yards, 1 TD
+Stefon, Diggs, 14, Wide Receiver, 1,100 receiving yards, 8 TDs
+Gabe, Davis, 13, Wide Receiver, 700 receiving yards, 6 TDs
+Khalil, Shakir, 10, Wide Receiver, 500 receiving yards, 4 TDs
+Deonte, Harty, 11, Wide Receiver, 300 receiving yards, 2 TDs
+Dalton, Kincaid, 86, Tight End, 600 receiving yards, 5 TDs
+Dawson, Knox, 88, Tight End, 300 receiving yards, 3 TDs
+Dion, Dawkins, 73, Offensive Tackle, Starting Left Tackle
+Spencer, Brown, 79, Offensive Tackle, Starting Right Tackle
+Connor, McGovern, 62, Offensive Guard, Starting Left Guard
+Ryan, Bates, 71, Offensive Guard, Starting Right Guard
+Mitch, Morse, 60, Center, Starting Center
+Ed, Oliver, 91, Defensive Tackle, 5 sacks, 40 tackles
+DaQuan, Jones, 92, Defensive Tackle, 3 sacks, 30 tackles
+Von, Miller, 40, Defensive End, 8 sacks, 35 tackles
+Gregory, Rousseau, 50, Defensive End, 6 sacks, 28 tackles
+Matt, Milano, 58, Linebacker, 2 sacks, 80 tackles
+Terrel, Bernard, 43, Linebacker, 1 sack, 60 tackles
+Tre'Davious, White, 27, Cornerback, 4 interceptions, 40 tackles
+Kaiir, Elam, 24, Cornerback, 2 interceptions, 30 tackles
+Micah, Hyde, 23, Safety, 3 interceptions, 50 tackles
+Jordan, Poyer, 21, Safety, 2 interceptions, 45 tackles
+Tyler, Bass, 2, Kicker, 25 field goals made
+Sam, Martin, 8, Punter, 45 punts, 46.0 average yards
+Reid, Ferguson, 69, Long Snapper, Starting Long Snapper

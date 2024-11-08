@@ -1,0 +1,35 @@
+Houston Texans
+5
+4
+DeMeco Ryans
+Houston, TX
+
+Players:
+C.J., Stroud, 7, Quarterback, 3,000 passing yards, 22 TDs, 8 INTs
+Davis, Mills, 10, Quarterback, 500 passing yards, 4 TDs, 2 INTs
+Dameon, Pierce, 31, Running Back, 1,000 rushing yards, 6 TDs
+Devin, Singletary, 25, Running Back, 400 rushing yards, 2 TDs
+Robert, Woods, 2, Wide Receiver, 600 receiving yards, 5 TDs
+Nico, Collins, 12, Wide Receiver, 700 receiving yards, 6 TDs
+Tank, Dell, 13, Wide Receiver, 500 receiving yards, 4 TDs
+Noah, Brown, 85, Wide Receiver, 300 receiving yards, 2 TDs
+Dalton, Schultz, 86, Tight End, 600 receiving yards, 4 TDs
+Teagan, Quitoriano, 84, Tight End, 200 receiving yards, 1 TD
+Laremy, Tunsil, 78, Offensive Tackle, Starting Left Tackle
+Tytus, Howard, 71, Offensive Tackle, Starting Right Tackle
+Kenyon, Green, 59, Offensive Guard, Starting Left Guard
+Shaq, Mason, 69, Offensive Guard, Starting Right Guard
+Juice, Scruggs, 70, Center, Starting Center
+Will, Anderson Jr., 51, Defensive End, 7 sacks, 40 tackles
+Jonathan, Greenard, 52, Defensive End, 5 sacks, 30 tackles
+Maliek, Collins, 96, Defensive Tackle, 4 sacks, 28 tackles
+Sheldon, Rankins, 98, Defensive Tackle, 3 sacks, 25 tackles
+Christian, Harris, 48, Linebacker, 1 sack, 75 tackles
+Denzel, Perryman, 6, Linebacker, 2 sacks, 60 tackles
+Steven, Nelson, 21, Cornerback, 2 interceptions, 45 tackles
+Derek, Stingley Jr., 24, Cornerback, 3 interceptions, 50 tackles
+Jalen, Pitre, 5, Safety, 4 interceptions, 65 tackles
+Eric, Murray, 23, Safety, 1 interception, 35 tackles
+Ka'imi, Fairbairn, 7, Kicker, 20 field goals made
+Cameron, Johnston, 11, Punter, 50 punts, 47.0 average yards
+Jon, Weeks, 46, Long Snapper, Starting Long Snapper
