@@ -1,2 +1,0 @@
-Admin, Password, {"teams": ["Philadelphia Eagles"], "players": ["Mayfield, Baker", "Higgins, Tee", "Stafford, Matthew"]}
-Guest, 123456789, {"teams": ["Los Angeles Rams"], "players": ["Mayfield, Baker"]}

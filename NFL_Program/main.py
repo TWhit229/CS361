@@ -101,6 +101,7 @@ def login_menu():
         create_account()
     elif choice == '3':
         main_menu()
+      
 def reload_user_data(username):
     with open('users.txt', 'r') as file:
         users = file.readlines()
@@ -109,6 +110,7 @@ def reload_user_data(username):
             if stored_username == username:
                 return saved_data
     return None
+
 
 def login_existing_user():
     os.system('clear')  # Clears the screen before displaying the login menu
@@ -273,21 +275,23 @@ def search_team(username):
                     saved_data = reload_user_data(username)
     else:
         print("\nTeam not found.")
+    
     input("\nPress Enter to return to the Logged In Menu...")
-    main_menu()
+    logged_in_menu(username, saved_data)
+
 
 
 def search_player(username):
     os.system('clear')
-    last_name = input("Enter the last name of the player you want to search for: ").lower()
+    last_name = input("Enter the last name of the player you want to search for: ")
     player_list = []
     for team in teams:
         for player in team['players']:
-            if last_name in player['last_name'].lower() or last_name in player['first_name'].lower():
+            if last_name.lower() in player['last_name'].lower() or last_name.lower() in player['first_name'].lower():
                 player_list.append((player, team['name']))
     
     if player_list:
-        print(f"\nPlayers matching '{last_name}':")
+        print(f"\nPlayers with last name '{last_name}':")
         for index, (player, team_name) in enumerate(player_list, start=1):
             print(f"{index}. {player['last_name']}, {player['first_name']} - {player['position']} #{player['number']} (Team: {team_name})")
         if username:
@@ -313,13 +317,15 @@ def search_player(username):
                 # Reload updated saved data
                 saved_data = reload_user_data(username)
     else:
-        print(f"\nNo players found matching '{last_name}'.")
+        print(f"\nNo players found with last name '{last_name}'.")
+    
     input("\nPress Enter to return to the Logged In Menu...")
-    main_menu()
+    logged_in_menu(username, saved_data)
 
 
 
-def search_news():
+
+def search_news(username=None, saved_data=None):
     os.system('clear')
     search_input = input("Enter a keyword or phrase to search for in the news headlines: ").lower()
     news_folder = "News"
@@ -327,8 +333,11 @@ def search_news():
 
     if not os.path.exists(news_folder):
         print("\nThe News folder does not exist.")
-        input("\nPress Enter to return to the Main Menu...")
-        main_menu()
+        input("\nPress Enter to return to the Menu...")
+        if username:
+            logged_in_menu(username, saved_data)
+        else:
+            main_menu()
         return
 
     for news_file in os.listdir(news_folder):
@@ -353,8 +362,13 @@ def search_news():
     else:
         print(f"\nNo news articles found matching '{search_input}'.")
 
-    input("\nPress Enter to return to the Main Menu...")
-    main_menu()
+    input("\nPress Enter to return to the Menu...")
+    if username:
+        logged_in_menu(username, saved_data)
+    else:
+        main_menu()
+
+
 
 
 if __name__ == "__main__":
